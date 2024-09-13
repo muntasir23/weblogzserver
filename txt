@@ -1,0 +1,3 @@
+mongoPass = HChhtuYNuGcXKl5S
+
+mongoConnectionString = mongodb+srv://muntasiraahmed3:HChhtuYNuGcXKl5S@cluster0.4elxt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
